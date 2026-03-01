@@ -1,0 +1,13 @@
+node_modules/
+.openclaw/
+*.log
+*wallet.json
+secrets.json
+.env
+memory/
+scripts/
+*.ps1
+*.js
+*.json
+!README.md
+!metadata/
